@@ -1,0 +1,25 @@
+.banner {
+  background-image: url(../../images/background.jpeg);
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%)( rgba(0,0,0,0.1) 50%),
+    url('images/banner.jpg');
+  color: white;
+  padding: 150px 0;
+  background-size: cover;
+  background-position: center;
+  text-align: center; /* Centre le texte dans la bannière */
+  width: 100%; /* Assure que la bannière prenne toute la largeur */
+}
+
+.banner h1 {
+  font-size: 50px;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+
+.banner {
+  
+}
